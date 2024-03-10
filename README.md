@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**ankita-vt/ankita-vt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/ankitaverma-t/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[Brief Introduction - Remove this afterwards]
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
 
 Here are some ideas to get you started:
 
