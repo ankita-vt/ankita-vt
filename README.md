@@ -10,6 +10,7 @@ I am an experienced Vulnerability and Threat Management Analyst with ~ 7 years o
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | Vulnerability Management                        |                            |
+| Python                                          |        In progress         |
 
 ## Tools
 ### Network
