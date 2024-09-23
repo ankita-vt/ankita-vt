@@ -1,7 +1,5 @@
 ### Hi there 👋 I’m Ankita!
 
-<a href="https://www.linkedin.com/in/ankitaverma-t/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 🎓 Graduate student in Information Security and Privacy at the University of Calgary, specializing in Governance, Risk, and Compliance (GRC) and Ethical Hacking.
 
 What drives me:
@@ -25,6 +23,7 @@ Did you know? 🔍 The ISO 27001 framework isn't just about IT security—it als
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     </div>
+<a href="https://www.linkedin.com/in/ankitaverma-t/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - 🌱 I’m currently learning advanced techniques in ethical hacking and exploring the latest cybersecurity trends.
 
