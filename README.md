@@ -4,10 +4,10 @@
 
 What drives me:
 
-🔒 Passionate about vulnerability management and threat mitigation, with 6 years of experience in securing systems.
-🌐 Currently diving deep into cybersecurity frameworks like NIST CSF and ISO 27001.
-📚 Always learning and contributing to projects that enhance security practices across industries.
-🚀 Eager to collaborate on innovative solutions to today’s cybersecurity challenges.
+🔒 Passionate about vulnerability management and threat mitigation, with 6 years of experience in securing systems.<br />
+🌐 Currently diving deep into cybersecurity frameworks like NIST CSF and ISO 27001.<br />
+📚 Always learning and contributing to projects that enhance security practices across industries.<br />
+🚀 Eager to collaborate on innovative solutions to today’s cybersecurity challenges.<br />
 
 Did you know? 🔍 The ISO 27001 framework isn't just about IT security—it also focuses on securing physical environments and employee processes to ensure comprehensive risk management.
 
