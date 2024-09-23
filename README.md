@@ -14,9 +14,9 @@ Did you know? 🔍 The ISO 27001 framework isn't just about IT security—it als
 
 ## Skills
 
-| Skill                                           | Associated Project         |
-|-------------------------------------------------|----------------------------|
-| Hashing and Hashcat                             |        In progress         |
+| Associated Project                              | Project Involvement                                                                                                  |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Hashing and Hashcat                             |  Currently developing a comprehensive guide on ethical usage and techniques for effective password cracking.         |
 
 ## Tools
 ### Network
